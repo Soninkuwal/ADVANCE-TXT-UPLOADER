@@ -38,6 +38,14 @@ deploy करने के बाद उसी deploy वाली repo के s
  
 Buildpack - https://github.com/heroku/heroku-buildpack-activestorage-preview
 
+
+## Deploy To Google Colab
+
+<a href="https://colab.research.google.com/github/Soninkuwal/ADVANCE-TXT-UPLOADER/blob/main/ADVANCE-TXT-UPLOADER.ipynb" target="_blank">
+  <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
+</a>
+
+
 ## Deploy To Koyeb
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=advance-txt-uploader&repository=Tushar557845%2FADVANCE-TXT-UPLOADER&branch=main&builder=dockerfile&instance_type=free&instances_min=0&autoscaling_sleep_idle_delay=300&ports=8080%3Bhttp%3B%2F&hc_protocol%5B8080%5D=tcp&hc_grace_period%5B8080%5D=5&hc_interval%5B8080%5D=30&hc_restart_limit%5B8080%5D=3&hc_timeout%5B8080%5D=5&hc_path%5B8080%5D=%2F&hc_method%5B8080%5D=get)
